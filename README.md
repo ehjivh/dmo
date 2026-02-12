@@ -1,5 +1,3 @@
-GitHubリポジトリ `ehjivh/dmo` の構成（`download_pdf.py`, `pdf_to_md.py`, `marge_txt.py`, `text_cloud.py` 等）に基づき、観光学やデータ分析の文脈を考慮したREADME.mdの案を以下に提示する。
-
 # DMO (Destination Management Organization) Data Analysis Tools
 
 本リポジトリは、DMO（観光地域づくり法人）に関連する公開資料（PDF等）を効率的に収集・変換・集計し、観光動向や政策議論の分析を支援するためのPythonスクリプト群である。
